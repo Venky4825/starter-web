@@ -10,4 +10,6 @@ To understand difference between staging and working directory
 
 ## Deployment
 
+This is last commit
+
 ## HOW TO CONTRIBUTE
