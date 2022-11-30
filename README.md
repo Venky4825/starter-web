@@ -14,4 +14,6 @@ This is last commit
 
 last commit
 
+staging ang git
+
 ## HOW TO CONTRIBUTE
