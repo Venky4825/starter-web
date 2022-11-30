@@ -12,4 +12,6 @@ To understand difference between staging and working directory
 
 This is last commit
 
+last commit
+
 ## HOW TO CONTRIBUTE
