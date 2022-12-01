@@ -1,5 +1,7 @@
 
 hi is this venky
+yes
+
 # humanstxt.org/
 # The humans responsible & technology colophon
 hi this os venky
